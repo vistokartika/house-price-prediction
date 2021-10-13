@@ -14,4 +14,5 @@ Models used in this project:
 # Result
 The Linear Regression model has the highest R2 Score of 0.914757.
 
+# Note
 The original notebook can be accessed at https://colab.research.google.com/drive/1WdZ2RW9eU8a1y4qID55YvzH4Pm3H_nCP?usp=sharing
